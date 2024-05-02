@@ -1,0 +1,18 @@
+.task-empty {
+  margin-top: 2.25rem;
+  text-align: center;
+  border-top: 0.5px inset;
+  border-radius: 10px;
+  color: var(--gray-300);
+}
+
+.task-empty-paragraph-one {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.task-empty-icon {
+  margin-top: 4.25rem;
+  width: 3.5rem;
+  height: 3.5rem;
+}
